@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{363501E8-6AA6-4D5E-BE26-83EED5811E6C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="reactportfolio/Program.cs">
+    <Files>
+      <File FileName="reactportfolio/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="reactportfolio" expanded="True">
+            <Node name="reactportfolio" expanded="True" selected="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="public" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.reactportfolio PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
